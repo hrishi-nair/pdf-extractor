@@ -1,6 +1,6 @@
-# 🏗️ ML model builder template
+# 🏗️ PDF Extractor using LLM
 
-A simple Streamlit app that lets you build simple ML models with scikit-learn. 
+A simple Streamlit app that lets you extract data from pdf documents using openai's gpt 3.5
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-builder-template.streamlit.app/)
 
